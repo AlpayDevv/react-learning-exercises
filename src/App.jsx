@@ -1,7 +1,7 @@
-import CounterApp from "./exercises/counter-app/CounterApp";
+import ShowHidePassword from "./exercises/show-hide-password/ShowHidePassword";
 
 function App() {
-  return <CounterApp />;
+  return <ShowHidePassword />;
 }
 
 export default App;
