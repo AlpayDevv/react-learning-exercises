@@ -1,36 +1,28 @@
 # React Learning Exercises
 
-A collection of small React projects and exercises built while learning React.
-
-The goal of this repository is to practice React fundamentals, improve problem-solving skills, and gradually build more interactive applications.
+A collection of small React projects built to practice fundamental React concepts step by step.
 
 ## Exercises
 
-### 1. Counter App
-- Increment and decrement counter
-- Reset functionality
-- Minimum and maximum value limits
-- React `useState`
+| # | Project | Concepts Practiced |
+|---|---|---|
+| 1 | Counter App | useState, event handling, conditional logic |
+| 2 | Show / Hide Password | useState, conditional rendering |
+| 3 | Character Counter | Controlled components, useState, dynamic styling |
+| 4 | Dark / Light Mode | useState, conditional styling |
+| 5 | Like Button | useState, event handling |
 
-### 2. Show / Hide Password
-- Toggle password visibility
-- Conditional rendering
-- React `useState`
+## Goal
 
-### Upcoming Exercises
-- Character Counter
-- Dark / Light Mode
-- Like Button
+The goal of this repository is to improve my React skills through practical exercises, gradually building confidence and learning how to create components independently.
 
 ## Technologies
 
 - React
 - JavaScript
-- Vite
 - CSS
+- Vite
 
-## Purpose
+## Progress
 
-This repository documents my progress in learning React through practical exercises and small projects.
-
-More exercises and features will be added as I continue learning.
+This repository is a work in progress. More exercises will be added as I continue learning React.
