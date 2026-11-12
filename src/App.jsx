@@ -1,7 +1,7 @@
-import ShowHidePassword from "./exercises/show-hide-password/ShowHidePassword";
+import CharacterCounter from "./exercises/character-counter/CharacterCounter";
 
 function App() {
-  return <ShowHidePassword />;
+  return <CharacterCounter />;
 }
 
 export default App;
