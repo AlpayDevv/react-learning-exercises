@@ -1,7 +1,7 @@
-import CharacterCounter from "./exercises/character-counter/CharacterCounter";
+import DarkLightMode from "./exercises/dark-light-mode/DarkLightMode";
 
 function App() {
-  return <CharacterCounter />;
+  return <DarkLightMode />;
 }
 
 export default App;
