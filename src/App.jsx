@@ -1,7 +1,7 @@
-import DarkLightMode from "./exercises/dark-light-mode/DarkLightMode";
+import LikeButton from "./exercises/like-button/LikeButton";
 
 function App() {
-  return <DarkLightMode />;
+  return <LikeButton />;
 }
 
 export default App;

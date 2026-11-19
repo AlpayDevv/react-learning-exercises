@@ -1,0 +1,49 @@
+.like-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #eaf0f8;
+}
+
+.like-card {
+  background-color: white;
+  padding: 40px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.like-button {
+  display: inline-block;
+  font-size: 50px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.like-button:hover {
+  transform: scale(1.2);
+}
+
+.like-icon-wrapper {
+  width: 70px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.like-card p {
+  font-size: 18px;
+  color: #475569;
+  font-weight: 600;
+  margin-top: 15px;
+}
+
+.like-card h1 {
+  color: #25334a;
+  margin-bottom: 20px;
+}
