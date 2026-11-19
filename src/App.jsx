@@ -1,7 +1,7 @@
-import LikeButton from "./exercises/like-button/LikeButton";
+import FAQAccordion from "./exercises/faq-accordion/FAQAccordion";
 
 function App() {
-  return <LikeButton />;
+  return <FAQAccordion />;
 }
 
 export default App;
