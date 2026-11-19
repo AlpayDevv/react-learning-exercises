@@ -4,13 +4,15 @@ A collection of small React projects built to practice fundamental React concept
 
 ## Exercises
 
-| #   | Project              | Concepts Practiced                               |
-| --- | -------------------- | ------------------------------------------------ |
-| 1   | Counter App          | useState, event handling, conditional logic      |
-| 2   | Show / Hide Password | useState, conditional rendering                  |
-| 3   | Character Counter    | Controlled components, useState, dynamic styling |
-| 4   | Dark / Light Mode    | useState, conditional styling                    |
-| 5   | Like Button          | useState, event handling, conditional rendering  |
+| #   | Project              | Concepts Practiced                                      |
+| --- | -------------------- | ------------------------------------------------        |
+| 1   | Counter App          | useState, event handling, conditional logic             |
+| 2   | Show / Hide Password | useState, conditional rendering                         |
+| 3   | Character Counter    | Controlled components, useState, dynamic styling        |
+| 4   | Dark / Light Mode    | useState, conditional styling                           |
+| 5   | Like Button          | useState, event handling, conditional rendering         |
+| 6   | FAQ Accordion        | useState, .map(), conditional rendering, event handling |
+
 
 ## Goal
 
