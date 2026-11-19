@@ -32,5 +32,6 @@ The goal of this repository is to strengthen my React fundamentals through hands
 - [x] Character Counter
 - [x] Dark / Light Mode
 - [x] Like Button
+- [x] FAQ Accordion
 
 All five planned exercises have been completed. More projects will be added as I continue learning React.
