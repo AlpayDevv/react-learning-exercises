@@ -1,7 +1,7 @@
-import FAQAccordion from "./exercises/faq-accordion/FAQAccordion";
+import MovieWatchlist from "./exercises/movie-watchlist/MovieWatchlist";
 
 function App() {
-  return <FAQAccordion />;
+  return <MovieWatchlist />;
 }
 
 export default App;
